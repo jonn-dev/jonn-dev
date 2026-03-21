@@ -1,28 +1,52 @@
-👋 Olá, eu sou o Jonatas
+# 👋 Olá, eu sou o Jonatas
 
-💻 Desenvolvedor Front-End em formação
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 **Desenvolvedor Front-End em formação**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-Atualmente estou focado em evoluir minhas habilidades em:
+Tenho foco em evoluir minhas habilidades em **desenvolvimento web**, criando projetos práticos para fortalecer minha lógica de programação, organização de código e construção de interfaces modernas.
 
-HTML
-CSS
-JavaScript
-Lógica de programação
-Desenvolvimento de interfaces web
+---
 
-🚀 Projetos em destaque:
+## 🚀 Tecnologias e habilidades
 
-🧮 Calculadora Moderna
+* HTML5
+* CSS3 (Flexbox, Grid Layout e Responsividade)
+* JavaScript (DOM, lógica de programação e interatividade)
+* Git e GitHub
+* Estruturação de projetos Front-End
+
+---
+
+## 📌 Projetos em destaque
+
+🧮 **Calculadora Moderna**
 👉 https://jonn-dev.github.io/calculadora-moderna-js/
 
-🔐 Login Page
+🔐 **Login Page Responsiva**
 👉 https://jonn-dev.github.io/login-page/
 
-🌦️ Próximo projeto: App de clima consumindo API
+🔢 **Contador interativo**
+👉 Em desenvolvimento
 
-📍 Rio de Janeiro – Brasil
+🌦️ **App de clima com API**
+👉 Em breve
 
-📫 Contato:
-✉️ jonatasmarianosouza@gmail.com
+---
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade de **estágio em desenvolvimento Front-End** para aplicar meus conhecimentos na prática, evoluir tecnicamente e contribuir com projetos reais.
+
+---
+
+## 📍 Localização
+
+Rio de Janeiro – Brasil
+
+---
+
+## 📫 Contato
+
+✉️ Email: [jonatasmarianosouza@gmail.com](mailto:jonatasmarianosouza@gmail.com)
 🔗 LinkedIn: https://linkedin.com/in/jonatas-souza-651553360
+
