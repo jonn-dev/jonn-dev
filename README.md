@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Jonatas
+# 👋 Olá, eu sou o Jonatas Souza
 
 💻 **Desenvolvedor Front-End em formação**
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
