@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Jonatas Souza
+# Olá, eu sou o Jonatas Souza
 
 💻 **Desenvolvedor Front-End em formação**
 Desenvolvedor Front-End em formação, com foco em criação de aplicações web utilizando HTML, CSS e JavaScript.
