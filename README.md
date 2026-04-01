@@ -19,25 +19,26 @@ Busco evoluir minhas habilidades por meio de projetos práticos, com atenção �
 
 ## Projetos em destaque
 
- **🌐**Portfólio Pessoal
+🌐 **Portfólio Pessoal**
 🔗 Demo: https://jonn-dev.github.io/jonn-dev-portfolio/
 💻 Código: https://github.com/jonn-dev/jonn-dev-portfolio
 
- **Aplicação web de clima com API**
+🌤️ **Previsão do Tempo (API)**
 🔗 Demo: https://jonn-dev.github.io/previsao-do-tempo-api/
 💻 Código: https://github.com/jonn-dev/previsao-do-tempo-api
 
- **Calculadora Moderna**
+🧮 **Calculadora Moderna**
 🔗 Demo: https://jonn-dev.github.io/calculadora-moderna-js/
 💻 Código: https://github.com/jonn-dev/calculadora-moderna-js
 
- **Login Page Responsiva**
+🔐 **Login Responsivo**
 🔗 Demo: https://jonn-dev.github.io/login-page/
 💻 Código: https://github.com/jonn-dev/login-page
 
- **to-do-List**
+📋 **To-Do List**
 🔗 Demo: https://jonn-dev.github.io/to-do-list/
 💻 Código: https://github.com/jonn-dev/to-do-list
+
 
 ---
 
