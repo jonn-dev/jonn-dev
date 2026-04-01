@@ -1,14 +1,13 @@
 # Olá, eu sou o Jonatas Souza
 
-💻 **Desenvolvedor Front-End em formação**
- , com foco em criação de aplicações web utilizando HTML, CSS e JavaScript.
+Desenvolvedor Front-End em formação, com foco no desenvolvimento de aplicações web utilizando HTML, CSS e JavaScript.
 
 Busco evoluir minhas habilidades por meio de projetos práticos, com atenção à organização de código, lógica de programação e construção de interfaces responsivas.
 
 
 ---
 
-## 🚀 Tecnologias e habilidades
+## Tecnologias e habilidades
 
 * HTML5
 * CSS3 (Flexbox, Grid Layout e Responsividade)
@@ -18,25 +17,25 @@ Busco evoluir minhas habilidades por meio de projetos práticos, com atenção �
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-🧑‍💻 **Jonn-dev-Portfólio**
+ **Jonn-dev-Portfólio**
 🔗 Demo: https://jonn-dev.github.io/jonn-dev-portfolio/
 💻 Código: https://github.com/jonn-dev/jonn-dev-portfolio
 
-🌦️ **Aplicação web de clima com API**
+ **Aplicação web de clima com API**
 🔗 Demo: https://jonn-dev.github.io/previsao-do-tempo-api/
 💻 Código: https://github.com/jonn-dev/previsao-do-tempo-api
 
-🧮 **Calculadora Moderna**
+ **Calculadora Moderna**
 🔗 Demo: https://jonn-dev.github.io/calculadora-moderna-js/
 💻 Código: https://github.com/jonn-dev/calculadora-moderna-js
 
-🔐 **Login Page Responsiva**
+ **Login Page Responsiva**
 🔗 Demo: https://jonn-dev.github.io/login-page/
 💻 Código: https://github.com/jonn-dev/login-page
 
-✅ **to-do-List**
+ **to-do-List**
 🔗 Demo: https://jonn-dev.github.io/to-do-list/
 💻 Código: https://github.com/jonn-dev/to-do-list
 
