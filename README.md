@@ -1,9 +1,10 @@
 # 👋 Olá, eu sou o Jonatas Souza
 
 💻 **Desenvolvedor Front-End em formação**
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+Desenvolvedor Front-End em formação, com foco em criação de aplicações web utilizando HTML, CSS e JavaScript.
 
-Tenho foco em evoluir minhas habilidades em **desenvolvimento web**, criando projetos práticos para fortalecer minha lógica de programação, organização de código e construção de interfaces modernas.
+Busco evoluir minhas habilidades por meio de projetos práticos, com atenção à organização de código, lógica de programação e construção de interfaces responsivas.
+
 
 ---
 
