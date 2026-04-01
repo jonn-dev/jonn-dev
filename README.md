@@ -19,17 +19,21 @@ Tenho foco em evoluir minhas habilidades em **desenvolvimento web**, criando pro
 
 ## 📌 Projetos em destaque
 
+🧑‍💻 **Jonn-dev-Portfólio**
+👉 https://jonn-dev.github.io/jonn-dev-portfolio/
+
+🌦️ **App de clima com API**
+👉 https://jonn-dev.github.io/previsao-do-tempo-api/
+
 🧮 **Calculadora Moderna**
 👉 https://jonn-dev.github.io/calculadora-moderna-js/
 
 🔐 **Login Page Responsiva**
 👉 https://jonn-dev.github.io/login-page/
 
-🔢 **Contador interativo**
-👉 Em desenvolvimento
+✅ **to-do-List**
+👉 https://jonn-dev.github.io/to-do-list/
 
-🌦️ **App de clima com API**
-👉 Em breve
 
 ---
 
