@@ -19,7 +19,7 @@ Busco evoluir minhas habilidades por meio de projetos práticos, com atenção �
 
 ## Projetos em destaque
 
- **🌐**Portfólio Pessoal**
+ **🌐**Portfólio Pessoal
 🔗 Demo: https://jonn-dev.github.io/jonn-dev-portfolio/
 💻 Código: https://github.com/jonn-dev/jonn-dev-portfolio
 
