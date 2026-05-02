@@ -57,5 +57,5 @@ Rio de Janeiro – Brasil
 ## 📫 Contato
 
 ✉️ Email: [jonatasmarianosouza@gmail.com](mailto:jonatasmarianosouza@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/jonatas-souza-651553360
+
 
